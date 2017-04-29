@@ -1,3 +1,3 @@
 # dorrys.github.io
 Dorrys TYNDAL  
-Paul LERLER
+Paul LERNER
